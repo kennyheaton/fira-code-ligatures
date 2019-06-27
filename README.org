@@ -1,0 +1,3 @@
+* Fira Code Ligatures
+
+Support for font ligatures in Emacs using Fira Code. This is not my original work but comes from the [[https://github.com/tonsky/FiraCode/wiki/Emacs-instructions#using-prettify-symbols][Fira Code repo workaround]].
